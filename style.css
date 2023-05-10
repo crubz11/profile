@@ -1,0 +1,51 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #1A120B;
+  color: #E5E5CB;
+  background-image: url("./images/1920x1080-992828-forest-trees-nature-mist-brown-beige.jpg");
+  background-attachment: fixed;
+  }
+
+h1 {
+  font-weight: bold;
+}
+
+.container {
+  width: 700px;
+  margin: 40px auto;
+}
+
+#max-profile {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+.card {
+  padding: 10px;
+  margin: 20px;
+  background-color: #3C2A21;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.education-work-hobbies {
+  padding: 20px;
+  margin: 20px;
+  background-color: #3C2A21;
+  border-radius: 5px;
+  text-align: center;
+}
+
+
+.fa-brands {
+  text-decoration: none;
+  color: #E5E5CB;
+  font-size: 35px;
+  width: 45px;
+}
+.fa-brands:hover {
+  color: #1A120B;
+  transition: 1s;
+  transform: rotate(360deg);
+}
