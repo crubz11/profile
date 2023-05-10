@@ -24,9 +24,11 @@ h1 {
 .card {
   padding: 10px;
   margin: 20px;
+  margin-bottom: 20px;
   background-color: #3C2A21;
   border-radius: 5px;
   text-align: center;
+  padding-bottom: 20px;
 }
 
 .education-work-hobbies {
